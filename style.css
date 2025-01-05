@@ -60,6 +60,11 @@ nav ul li a:hover {
   color: white;
 }
 
+.div {
+  padding: 0px;
+  margin: 0;
+  gap: 30px;
+}
 /* Section Styles */
 main section {
   margin: 20px 0;
