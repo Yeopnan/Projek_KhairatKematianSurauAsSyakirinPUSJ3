@@ -14,7 +14,11 @@ h2 {
   text-align: center;
   color: #333;
 }
-
+.header-container h3 {
+  text-align: center;
+  color: #602a9d;
+  font-style: italic;
+}
 header {
   background-color: #b366ff;
   color: white;
@@ -24,6 +28,7 @@ header {
 
 .header-container {
   display: flex;
+  flex-direction: column;
   justify-content: space-between;
   align-items: center;
   padding: 0 20px;
